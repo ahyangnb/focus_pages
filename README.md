@@ -20,3 +20,6 @@ https://github.com/flutter/flutter/issues/109512
 
 ##### Flutter 3.27.x | Android 10, 11 | Crash: "drawRenderNode called on a context with no surface!"
 https://github.com/flutter/flutter/issues/162147
+
+##### 如果路由是replace，绑定页面的dialog不会关闭。
+https://github.com/fluttercandies/flutter_smart_dialog/issues/286
