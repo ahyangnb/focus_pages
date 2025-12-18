@@ -1,4 +1,8 @@
 # Issues
+
+##### [packages] in GoRoute the state.extra will be clean when enable [select widget mode] on devtool.
+https://github.com/flutter/flutter/issues/179677#issuecomment-3637014249
+
 ##### Blur filter isn't clipped when using border radius
 https://github.com/flutter/flutter/issues/115926
 
