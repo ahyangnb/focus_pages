@@ -24,6 +24,9 @@ https://github.com/flutter/flutter/issues/162147
 ##### 如果路由是replace，绑定页面的dialog不会关闭。
 https://github.com/fluttercandies/flutter_smart_dialog/issues/286
 
+##### [flutter_svg]: svg file is rendered differently than original.
+https://github.com/flutter/flutter/issues/171333#issuecomment-3252332242
+
 # Issues[Closed]
 ##### ColorScheme will removeListener on imageStream twice if there is error loading the image.
 https://github.com/flutter/flutter/issues/170413
